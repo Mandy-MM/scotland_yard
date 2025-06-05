@@ -20,13 +20,13 @@ The goal of this project is to model the **full ruleset** of Scotland Yard using
 
 ## 🗂️ Directory Structure 项目结构
 
+```
 sy/
+├── report.pdf        # 项目报告 / Project summary & reflection
+├── cw-model/         # 核心游戏模型 / Game mechanics
+├── cw-ai/            # AI 策略逻辑 / Mr X AI logic
 
-├── report.pdf # 项目报告 / Project summary & reflection
-
-├── cw-model/ # 核心游戏模型 / Game mechanics
-
-├── cw-ai/ # AI 策略逻辑 / Mr X AI logic
+```
 
 ---
 
