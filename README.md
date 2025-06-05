@@ -27,7 +27,15 @@ sy/
 ├── cw-ai/            # AI 策略逻辑 / Mr X AI logic
 
 ```
+---
+## 💻 How to Run 如何运行
 
+### 1️⃣ 编译项目 / Compile the project
+
+```bash
+cd cw-model
+./mvnw clean test   # 运行模型测试 / Run model unit tests
+```
 ---
 ### 📦 cw-model: Core Game Engine / 核心游戏逻辑模块
 
@@ -51,17 +59,6 @@ This folder implements the full logic of the Scotland Yard game, including:
 - ✅ **Observer Pattern 观察者模式** — 用于通知 UI 状态变更  
 - ✅ **Immutability 不可变性设计** — 使用 Guava 集合确保状态安全与防御式编程
   
-
----
-## 💻 How to Run 如何运行
-
-### 1️⃣ 编译项目 / Compile the project
-
-```bash
-cd cw-model
-./mvnw clean test   # 运行模型测试 / Run model unit tests
-```
-
 ---
 
 ## 👨‍💻 My Contribution 我的实现部分
