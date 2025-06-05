@@ -25,7 +25,6 @@ sy/
 ├── report.pdf        # 项目报告 / Project summary & reflection
 ├── cw-model/         # 核心游戏模型 / Game mechanics
 ├── cw-ai/            # AI 策略逻辑 / Mr X AI logic
-
 ```
 ---
 ## 💻 How to Run 如何运行
