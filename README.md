@@ -37,7 +37,7 @@ cd cw-model
 ```
 ---
 ## 📦 Core Game Engine / 核心游戏逻辑模块
-###cw-model：
+### cw-model：
 
 This folder implements the full logic of the Scotland Yard game, including:  
 该文件夹实现了《苏格兰场》游戏的完整规则逻辑，包括：
